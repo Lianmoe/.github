@@ -1,16 +1,18 @@
-## 联萌社区GitHub组织账号
+这里是联萌在 GitHub 上的账号
 
-这里是联萌 (Lianmoe) 社区在GitHub上的账号！
+### 我们在做：
+- 模组翻译;
+- Minecraft 教程；
+- ……
 
-### 我们在做
 
-- 模组翻译！
-- 模组服务器！
-- 小游戏服务器！
-- 教程项目！
-- 还有更多...
+Official github account of lianmoe 
 
-<!--
+### We are working on:
+- MOD translation
+- Minecraft tutoriol
+- and more...
+
 
 **Here are some ideas to get you started:**
 
