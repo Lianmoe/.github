@@ -9,6 +9,7 @@
 - Minecraft 教程；
 - ……
 
+------
 
 Official Github account of Lianmoe   
 
